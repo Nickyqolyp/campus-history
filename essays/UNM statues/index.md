@@ -4,8 +4,7 @@ title: UNM Stautues
 author: Nickolas Quintana
 category: Public Art                 # change to a category from the student guide
 header-image: Unm -statue - UNM photographer-nickq .png   # the filename of your own image
-header-caption: UNM Archives
- Plain text only, no links.
+header-caption: UNM Archives Plain text only, no links.
 
 # Fill these in later, once your research is under way.
 card-description: Replace this with two sentences that summarize the story your essay tells and why it matters.
